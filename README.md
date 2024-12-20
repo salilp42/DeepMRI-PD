@@ -68,15 +68,18 @@ To run experiments:
 python src/experiments/run_all_experiments.py
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Citation
+If you use DeepMRI-PD in your research, please cite:
 
-If you use this code in your research, please cite our paper:
-[Paper citation details]
+@article{impact2024,
+  title={DeepMRI-PD},
+  author={Salil Patel},
+  journal={},
+  year={2024}
+}
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contributors
+Contributing
+Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-[Your name and other contributors]
