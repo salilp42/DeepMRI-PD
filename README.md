@@ -8,7 +8,7 @@ This repository contains implementations of various deep learning models for cla
 
 - Convolutional Neural Networks (CNN)
 - Graph Convolutional Networks (GCN)
-- Convolutional Kernel Analytic Networks (ConvKAN)
+- Convolutional Kolmogorov-Arnold Networks (ConvKAN)
 
 ## Project Structure
 
